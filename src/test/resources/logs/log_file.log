@@ -1,0 +1,1035 @@
+2017-02-28 22:37:10 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:37:10 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:37:10 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:37:10 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:37:10 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:37:11 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:37:11 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 22:37:11 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:37:14 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:37:14 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:37:14 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:37:16 INFO  Element:13 - Selected value=Opel in DropDown 'make'
+2017-02-28 22:37:16 INFO  Element:13 - Selected value=Isuzu in DropDown 'model'
+2017-02-28 22:37:16 INFO  Element:13 - Selected value=1979 in DropDown 'year'
+2017-02-28 22:37:16 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:37:16 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:37:19 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:37:19 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:37:29 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:37:29 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 22:37:29 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:37:29 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:37:29 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:37:29 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:37:31 INFO  Element:13 - Selected value=Rolls-Royce in DropDown 'make'
+2017-02-28 22:37:31 INFO  Element:13 - Selected value=Silver Dawn in DropDown 'model'
+2017-02-28 22:37:31 INFO  Element:13 - Selected value=1951 in DropDown 'year'
+2017-02-28 22:37:31 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:37:31 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:37:33 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:37:33 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:37:43 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:37:43 INFO  CompareCarsStep:13 - Attemp: 3/5
+2017-02-28 22:37:43 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:37:43 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:37:43 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:37:43 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:37:46 INFO  Element:13 - Selected value=LaSalle in DropDown 'make'
+2017-02-28 22:37:46 INFO  Element:13 - Selected value=50 in DropDown 'model'
+2017-02-28 22:37:47 INFO  Element:13 - Selected value=1935 in DropDown 'year'
+2017-02-28 22:37:47 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:37:47 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:37:49 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:37:49 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:37:59 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:37:59 INFO  CompareCarsStep:13 - Attemp: 4/5
+2017-02-28 22:37:59 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:37:59 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:37:59 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:37:59 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:38:01 INFO  Element:13 - Selected value=Checker in DropDown 'make'
+2017-02-28 22:38:02 INFO  Element:13 - Selected value=Marathon in DropDown 'model'
+2017-02-28 22:38:02 INFO  Element:13 - Selected value=1965 in DropDown 'year'
+2017-02-28 22:38:02 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:38:02 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:38:04 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:38:04 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:38:14 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:38:14 INFO  CompareCarsStep:13 - Attemp: 5/5
+2017-02-28 22:38:14 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:38:14 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:38:14 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:38:14 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:38:16 INFO  Element:13 - Selected value=Nash in DropDown 'make'
+2017-02-28 22:38:16 INFO  Element:13 - Selected value=Advanced Eight in DropDown 'model'
+2017-02-28 22:38:17 INFO  Element:13 - Selected value=1934 in DropDown 'year'
+2017-02-28 22:38:17 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:38:17 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:38:19 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:38:33 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:38:33 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:38:33 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:38:33 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:38:33 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:38:34 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:38:34 INFO  CompareCarsStep:13 - Attemp: 1/10
+2017-02-28 22:38:34 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:38:37 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:38:37 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:38:37 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:38:39 INFO  Element:13 - Selected value=Saleen in DropDown 'make'
+2017-02-28 22:38:39 INFO  Element:13 - Selected value=S7 in DropDown 'model'
+2017-02-28 22:38:39 INFO  Element:13 - Selected value=2005 in DropDown 'year'
+2017-02-28 22:38:39 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:38:39 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:38:42 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:38:42 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:38:52 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:38:52 INFO  CompareCarsStep:13 - Attemp: 2/10
+2017-02-28 22:38:52 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:38:52 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:38:52 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:38:52 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:38:54 INFO  Element:13 - Selected value=Fisker in DropDown 'make'
+2017-02-28 22:38:54 INFO  Element:13 - Selected value=Karma in DropDown 'model'
+2017-02-28 22:38:54 INFO  Element:13 - Selected value=2011 in DropDown 'year'
+2017-02-28 22:38:55 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:38:55 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:38:57 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:38:57 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:39:00 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 22:39:00 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 22:39:00 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:39:03 INFO  CompareCarsStep:13 - The car 'FIRST' has added to garage
+2017-02-28 22:39:03 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:39:03 INFO  CompareCarsStep:13 - Attemp: 1/10
+2017-02-28 22:39:03 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:39:03 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:39:03 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:39:03 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:39:05 INFO  Element:13 - Selected value=Dodge in DropDown 'make'
+2017-02-28 22:39:05 INFO  Element:13 - Selected value=DR in DropDown 'model'
+2017-02-28 22:39:05 INFO  Element:13 - Selected value=1934 in DropDown 'year'
+2017-02-28 22:39:05 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:39:05 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:39:07 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:39:07 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:39:18 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:39:18 INFO  CompareCarsStep:13 - Attemp: 2/10
+2017-02-28 22:39:18 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:39:18 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:39:18 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:39:18 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:39:20 INFO  Element:13 - Selected value=AC in DropDown 'make'
+2017-02-28 22:39:20 INFO  Element:13 - Selected value=Ace in DropDown 'model'
+2017-02-28 22:39:20 INFO  Element:13 - Selected value=1955 in DropDown 'year'
+2017-02-28 22:39:20 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:39:21 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:39:23 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:39:23 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:39:33 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:39:33 INFO  CompareCarsStep:13 - Attemp: 3/10
+2017-02-28 22:39:33 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:39:33 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:39:33 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:39:33 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:39:35 INFO  Element:13 - Selected value=Cadillac in DropDown 'make'
+2017-02-28 22:39:35 INFO  Element:13 - Selected value=Model G in DropDown 'model'
+2017-02-28 22:39:35 INFO  Element:13 - Selected value=1908 in DropDown 'year'
+2017-02-28 22:39:35 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:39:35 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:39:38 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:39:38 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:39:48 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:39:48 INFO  CompareCarsStep:13 - Attemp: 4/10
+2017-02-28 22:39:48 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:39:48 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:39:48 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:39:48 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:39:50 INFO  Element:13 - Selected value=Morgan in DropDown 'make'
+2017-02-28 22:39:50 INFO  Element:13 - Selected value=Plus 4 in DropDown 'model'
+2017-02-28 22:39:50 INFO  Element:13 - Selected value=1959 in DropDown 'year'
+2017-02-28 22:39:50 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:39:50 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:39:53 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:39:53 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:40:03 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:40:03 INFO  CompareCarsStep:13 - Attemp: 5/10
+2017-02-28 22:40:03 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:40:03 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:40:03 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:40:03 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:40:05 INFO  Element:13 - Selected value=Rover in DropDown 'make'
+2017-02-28 22:40:05 INFO  Element:13 - Selected value=60/75 in DropDown 'model'
+2017-02-28 22:40:05 INFO  Element:13 - Selected value=1949 in DropDown 'year'
+2017-02-28 22:40:05 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:40:05 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:40:08 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:40:08 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:40:18 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:40:18 INFO  CompareCarsStep:13 - Attemp: 6/10
+2017-02-28 22:40:18 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:40:18 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:40:18 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:40:18 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:40:20 INFO  Element:13 - Selected value=Datsun in DropDown 'make'
+2017-02-28 22:40:20 INFO  Element:13 - Selected value=260Z in DropDown 'model'
+2017-02-28 22:40:20 INFO  Element:13 - Selected value=1973 in DropDown 'year'
+2017-02-28 22:40:20 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:40:20 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:40:22 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:40:22 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:40:33 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:40:33 INFO  CompareCarsStep:13 - Attemp: 7/10
+2017-02-28 22:40:33 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:40:33 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:40:33 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:40:33 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:40:35 INFO  Element:13 - Selected value=Lancia in DropDown 'make'
+2017-02-28 22:40:35 INFO  Element:13 - Selected value=Zagato in DropDown 'model'
+2017-02-28 22:40:35 INFO  Element:13 - Selected value=1980 in DropDown 'year'
+2017-02-28 22:40:35 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:40:35 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:40:38 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:40:38 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:40:48 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:40:48 INFO  CompareCarsStep:13 - Attemp: 8/10
+2017-02-28 22:40:48 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:40:48 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:40:48 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:40:48 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:40:50 INFO  Element:13 - Selected value=Renault in DropDown 'make'
+2017-02-28 22:40:51 INFO  Element:13 - Selected value=R-15 in DropDown 'model'
+2017-02-28 22:40:51 INFO  Element:13 - Selected value=1975 in DropDown 'year'
+2017-02-28 22:40:51 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:40:51 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:40:54 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:40:54 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:41:04 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:41:04 INFO  CompareCarsStep:13 - Attemp: 9/10
+2017-02-28 22:41:04 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:41:04 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:41:04 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:41:04 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:41:06 INFO  Element:13 - Selected value=Lincoln in DropDown 'make'
+2017-02-28 22:41:06 INFO  Element:13 - Selected value=Model K in DropDown 'model'
+2017-02-28 22:41:06 INFO  Element:13 - Selected value=1936 in DropDown 'year'
+2017-02-28 22:41:07 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:41:07 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:41:09 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:41:09 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:41:19 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:41:19 INFO  CompareCarsStep:13 - Attemp: 10/10
+2017-02-28 22:41:19 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:41:19 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:41:20 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:41:20 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:41:21 INFO  Element:13 - Selected value=Toyota in DropDown 'make'
+2017-02-28 22:41:21 INFO  Element:13 - Selected value=2000 GT in DropDown 'model'
+2017-02-28 22:41:22 INFO  Element:13 - Selected value=1967 in DropDown 'year'
+2017-02-28 22:41:22 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:41:22 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:41:24 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:42:14 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:42:14 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:42:14 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:42:14 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:42:14 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:42:16 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:42:16 INFO  CompareCarsStep:13 - Attemp: 1/10
+2017-02-28 22:42:16 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:42:18 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:42:18 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:42:18 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:42:21 INFO  Element:13 - Selected value=Delorean in DropDown 'make'
+2017-02-28 22:42:21 INFO  Element:13 - Selected value=DMC-12 in DropDown 'model'
+2017-02-28 22:42:21 INFO  Element:13 - Selected value=1982 in DropDown 'year'
+2017-02-28 22:42:21 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:42:21 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:42:23 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:42:23 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:42:33 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:42:33 INFO  CompareCarsStep:13 - Attemp: 2/10
+2017-02-28 22:42:33 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:42:33 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:42:33 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:42:33 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:42:36 INFO  Element:13 - Selected value=Peugeot in DropDown 'make'
+2017-02-28 22:42:37 INFO  Element:13 - Selected value=304 in DropDown 'model'
+2017-02-28 22:42:37 INFO  Element:13 - Selected value=1971 in DropDown 'year'
+2017-02-28 22:42:37 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:42:37 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:42:39 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:42:39 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:42:49 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:42:50 INFO  CompareCarsStep:13 - Attemp: 3/10
+2017-02-28 22:42:50 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:42:50 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:42:50 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:42:50 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:42:51 INFO  Element:13 - Selected value=Lancia in DropDown 'make'
+2017-02-28 22:42:51 INFO  Element:13 - Selected value=Zagato in DropDown 'model'
+2017-02-28 22:42:52 INFO  Element:13 - Selected value=1981 in DropDown 'year'
+2017-02-28 22:42:52 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:42:52 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:42:54 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:42:54 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:43:04 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:43:04 INFO  CompareCarsStep:13 - Attemp: 4/10
+2017-02-28 22:43:04 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:43:04 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:43:04 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:43:04 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:43:06 INFO  Element:13 - Selected value=RAM in DropDown 'make'
+2017-02-28 22:43:06 INFO  Element:13 - Selected value=ProMaster 1500 in DropDown 'model'
+2017-02-28 22:43:06 INFO  Element:13 - Selected value=2017 in DropDown 'year'
+2017-02-28 22:43:06 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:43:06 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:43:09 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:43:09 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:43:11 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 22:43:11 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 22:43:11 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:43:14 INFO  CompareCarsStep:13 - The car 'FIRST' has added to garage
+2017-02-28 22:43:14 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:43:14 INFO  CompareCarsStep:13 - Attemp: 1/10
+2017-02-28 22:43:14 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:43:14 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:43:14 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:43:14 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:43:16 INFO  Element:13 - Selected value=Buick in DropDown 'make'
+2017-02-28 22:43:16 INFO  Element:13 - Selected value=Model 19 in DropDown 'model'
+2017-02-28 22:43:16 INFO  Element:13 - Selected value=1910 in DropDown 'year'
+2017-02-28 22:43:16 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:43:16 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:43:18 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:43:18 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:43:28 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:43:28 INFO  CompareCarsStep:13 - Attemp: 2/10
+2017-02-28 22:43:28 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:43:29 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:43:29 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:43:29 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:43:30 INFO  Element:13 - Selected value=Aston Martin in DropDown 'make'
+2017-02-28 22:43:31 INFO  Element:13 - Selected value=DB4 in DropDown 'model'
+2017-02-28 22:43:31 INFO  Element:13 - Selected value=1963 in DropDown 'year'
+2017-02-28 22:43:31 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:43:31 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:43:33 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:43:33 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:43:43 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 22:43:43 INFO  CompareCarsStep:13 - Attemp: 3/10
+2017-02-28 22:43:43 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:43:44 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:43:44 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:43:44 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:43:47 INFO  Element:13 - Selected value=Am General in DropDown 'make'
+2017-02-28 22:43:47 INFO  Element:13 - Selected value=Hummer in DropDown 'model'
+2017-02-28 22:43:47 INFO  Element:13 - Selected value=1994 in DropDown 'year'
+2017-02-28 22:43:47 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:43:47 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:43:49 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:43:49 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:43:51 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 22:43:52 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 22:43:52 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:43:54 INFO  CompareCarsStep:13 - The car 'SECOND' has added to garage
+2017-02-28 22:43:54 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:43:54 INFO  Element:13 - checkbox 'Compare' has clicked
+2017-02-28 22:43:54 INFO  Element:13 - button 'Compare Now' has clicked
+2017-02-28 22:43:54 INFO  CompareCarsStep:13 - 
+====-----[  Select car for comparing (Click button 'Add Another Car' and select car) ]-----====
+2017-02-28 22:43:57 INFO  Element:13 - button 'Add Another Car' has clicked
+2017-02-28 22:43:57 INFO  Element:13 - Selected value=RAM in DropDown[AddAnotherCar-form] 'make'
+2017-02-28 22:43:57 INFO  Element:13 - Selected value=ProMaster 1500 in DropDown[AddAnotherCar-form] 'model'
+2017-02-28 22:43:57 INFO  Element:13 - Selected value=2017 in DropDown[AddAnotherCar-form] 'year'
+2017-02-28 22:43:57 INFO  Element:13 - button 'Done' has clicked
+2017-02-28 22:43:57 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 22:43:57 INFO  CompareCarsStep:13 - 
+Compare FIRST car with the 2th car from the table
+2017-02-28 22:43:58 INFO  Element:13 - button 'Remove' for 2 car has appeared
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Make': actual: 2017 RAM ProMaster 1500 -> expected: RAM
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Model': actual: 2017 RAM ProMaster 1500 -> expected: ProMaster 1500
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Year': actual: 2017 RAM ProMaster 1500 -> expected: 2017
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Engine': actual: 280-hp, 3.6-liter V-6 (regular gas) -> expected: 280-hp, 3.6-liter V-6 (regular gas)
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Transmission': actual: 6-speed automatic w/OD and auto-manual -> expected: 6-speed automatic w/OD and auto-manual
+2017-02-28 22:43:58 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 22:43:58 INFO  CompareCarsStep:13 - 
+Compare SECOND car with the 1th car from the table
+2017-02-28 22:43:58 INFO  Element:13 - button 'Remove' for 1 car has appeared
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Make': actual: 1994 Am General Hummer -> expected: Am General
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Model': actual: 1994 Am General Hummer -> expected: Hummer
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Year': actual: 1994 Am General Hummer -> expected: 1994
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Engine': actual: 170-hp, 6.5-liter V-8 (diesel) -> expected: 170-hp, 6.5-liter V-8 (diesel)
+2017-02-28 22:43:58 INFO  SoftAssert:13 - verify 'Transmission': actual: 4-speed automatic w/OD -> expected: 4-speed automatic w/OD
+2017-02-28 22:43:59 INFO  CompareCarsStep:13 - 
+***************************************************
+2017-02-28 22:43:59 INFO  CompareCarsStep:13 - ***** Test case: steps.CompareCarsStep Passed! *****
+
+2017-02-28 22:46:45 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:46:45 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:46:45 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:46:45 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:46:45 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:46:46 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:46:46 INFO  CompareCarsStep:13 - Attemp: 1/10
+2017-02-28 22:46:46 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:46:48 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:46:48 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:46:48 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:46:51 INFO  Element:13 - Selected value=Daewoo in DropDown 'make'
+2017-02-28 22:46:51 INFO  Element:13 - Selected value=Nubira in DropDown 'model'
+2017-02-28 22:46:51 INFO  Element:13 - Selected value=1999 in DropDown 'year'
+2017-02-28 22:46:51 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:46:51 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:46:54 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:46:54 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:46:57 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 22:46:58 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 22:46:58 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:47:00 INFO  CompareCarsStep:13 - The car 'FIRST' has added to garage
+2017-02-28 22:47:00 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:47:00 INFO  CompareCarsStep:13 - Attemp: 1/10
+2017-02-28 22:47:00 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:47:00 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:47:00 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:47:00 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:47:03 INFO  Element:13 - Selected value=Pontiac in DropDown 'make'
+2017-02-28 22:47:04 INFO  Element:13 - Selected value=Sunbird in DropDown 'model'
+2017-02-28 22:47:04 INFO  Element:13 - Selected value=1992 in DropDown 'year'
+2017-02-28 22:47:04 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:47:04 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:47:07 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:47:07 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 22:47:11 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 22:47:11 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 22:47:11 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:47:13 INFO  CompareCarsStep:13 - The car 'SECOND' has added to garage
+2017-02-28 22:47:13 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 22:47:13 INFO  Element:13 - checkbox 'Compare' has clicked
+2017-02-28 22:47:13 INFO  Element:13 - button 'Compare Now' has clicked
+2017-02-28 22:47:13 INFO  CompareCarsStep:13 - 
+====-----[  Select car for comparing (Click button 'Add Another Car' and select car) ]-----====
+2017-02-28 22:47:16 INFO  Element:13 - button 'Add Another Car' has clicked
+2017-02-28 22:47:16 INFO  Element:13 - Selected value=Daewoo in DropDown[AddAnotherCar-form] 'make'
+2017-02-28 22:47:17 INFO  Element:13 - Selected value=Nubira in DropDown[AddAnotherCar-form] 'model'
+2017-02-28 22:47:17 INFO  Element:13 - Selected value=1999 in DropDown[AddAnotherCar-form] 'year'
+2017-02-28 22:47:17 INFO  Element:13 - button 'Done' has clicked
+2017-02-28 22:47:17 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 22:47:17 INFO  CompareCarsStep:13 - 
+Compare FIRST car with the 2th car from the table
+2017-02-28 22:47:17 INFO  Element:13 - button 'Remove' for 2 car has appeared
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Make': actual: 1999 Daewoo Nubira -> expected: Daewoo
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Model': actual: 1999 Daewoo Nubira -> expected: Nubira
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Year': actual: 1999 Daewoo Nubira -> expected: 1999
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Engine': actual: 129-hp, 2.0-liter I-4 (regular gas) -> expected: 129-hp, 2.0-liter I-4 (regular gas)
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Transmission': actual: 4-speed automatic w/OD,
+5-speed manual w/OD -> expected: 4-speed automatic w/OD
+2017-02-28 22:47:17 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 22:47:17 INFO  CompareCarsStep:13 - 
+Compare SECOND car with the 1th car from the table
+2017-02-28 22:47:17 INFO  Element:13 - button 'Remove' for 1 car has appeared
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Make': actual: 1992 Pontiac Sunbird -> expected: Pontiac
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Model': actual: 1992 Pontiac Sunbird -> expected: Sunbird
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Year': actual: 1992 Pontiac Sunbird -> expected: 1992
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Engine': actual: 111-hp, 2.0-liter I-4 (regular gas) -> expected: 111-hp, 2.0-liter I-4 (regular gas)
+2017-02-28 22:47:17 INFO  SoftAssert:13 - verify 'Transmission': actual: 3-speed automatic ,
+5-speed manual w/OD -> expected: 3-speed automatic
+2017-02-28 22:47:19 INFO  CompareCarsStep:13 - 
+***************************************************
+2017-02-28 22:47:19 INFO  CompareCarsStep:13 - ***** Test case: steps.CompareCarsStep Passed! *****
+
+2017-02-28 22:48:11 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:48:11 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:48:11 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:48:11 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:48:11 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:48:12 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:48:12 INFO  CompareCarsStep:13 - Attemp: 1/1
+2017-02-28 22:48:12 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:48:15 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:48:15 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:48:15 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:48:17 INFO  Element:13 - Selected value=TVR in DropDown 'make'
+2017-02-28 22:48:17 INFO  Element:13 - Selected value=2500M in DropDown 'model'
+2017-02-28 22:48:17 INFO  Element:13 - Selected value=1977 in DropDown 'year'
+2017-02-28 22:48:18 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:48:18 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:48:20 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:51:51 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:51:51 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:51:51 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:51:51 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:51:51 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:51:53 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:51:53 INFO  CompareCarsStep:13 - Attemp: 1/1
+2017-02-28 22:51:53 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:51:55 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:51:55 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:51:55 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:51:57 INFO  Element:13 - Selected value=Maserati in DropDown 'make'
+2017-02-28 22:51:58 INFO  Element:13 - Selected value=Sebring in DropDown 'model'
+2017-02-28 22:51:58 INFO  Element:13 - Selected value=1963 in DropDown 'year'
+2017-02-28 22:51:58 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:51:58 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:52:00 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:53:37 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:53:37 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:53:37 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:53:37 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:53:37 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:53:38 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:53:38 INFO  CompareCarsStep:13 - Attemp: 1/1
+2017-02-28 22:53:38 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:53:40 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:53:41 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:53:41 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:53:43 INFO  Element:13 - Selected value=Chrysler in DropDown 'make'
+2017-02-28 22:53:43 INFO  Element:13 - Selected value=Grand Voyager in DropDown 'model'
+2017-02-28 22:53:43 INFO  Element:13 - Selected value=2000 in DropDown 'year'
+2017-02-28 22:53:44 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:53:44 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:53:47 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 22:56:16 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 22:56:16 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 22:56:16 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 22:56:16 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 22:56:16 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 22:56:17 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 22:56:17 INFO  CompareCarsStep:13 - Attemp: 1/1
+2017-02-28 22:56:17 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 22:56:19 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 22:56:19 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 22:56:19 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 22:56:22 INFO  Element:13 - Selected value=AC in DropDown 'make'
+2017-02-28 22:56:22 INFO  Element:13 - Selected value=Shelby Cobra in DropDown 'model'
+2017-02-28 22:56:22 INFO  Element:13 - Selected value=1963 in DropDown 'year'
+2017-02-28 22:56:22 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 22:56:22 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 22:56:24 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:01:19 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 23:01:19 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 23:01:19 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 23:01:19 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 23:01:19 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 23:01:21 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:01:21 INFO  CompareCarsStep:13 - Attemp: 1/1
+2017-02-28 23:01:21 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:01:23 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:01:23 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:01:23 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:01:26 INFO  Element:13 - Selected value=Mazda in DropDown 'make'
+2017-02-28 23:01:26 INFO  Element:13 - Selected value=MazdaSpeed Protege in DropDown 'model'
+2017-02-28 23:01:26 INFO  Element:13 - Selected value=2003 in DropDown 'year'
+2017-02-28 23:01:26 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:01:26 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:01:30 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:03:37 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 23:03:37 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 23:03:37 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 23:03:37 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 23:03:37 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 23:03:38 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:03:38 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:03:38 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:03:43 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:03:45 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:03:45 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:03:46 INFO  Element:13 - Selected value=Hyundai in DropDown 'make'
+2017-02-28 23:03:47 INFO  Element:13 - Selected value=Elantra GT in DropDown 'model'
+2017-02-28 23:03:47 INFO  Element:13 - Selected value=2016 in DropDown 'year'
+2017-02-28 23:03:50 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:03:50 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:03:50 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:03:50 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:04:12 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 23:04:12 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 23:04:12 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:04:12 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:04:13 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:04:13 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:04:14 INFO  Element:13 - Selected value=Am General in DropDown 'make'
+2017-02-28 23:04:14 INFO  Element:13 - Selected value=Hummer in DropDown 'model'
+2017-02-28 23:04:15 INFO  Element:13 - Selected value=1996 in DropDown 'year'
+2017-02-28 23:04:15 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:04:15 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:04:19 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:04:19 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:04:20 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 23:04:22 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 23:04:22 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:04:22 INFO  CompareCarsStep:13 - The car 'FIRST' has added to garage
+2017-02-28 23:04:22 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:04:22 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:04:22 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:04:22 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:04:23 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:04:23 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:04:24 INFO  Element:13 - Selected value=Suzuki in DropDown 'make'
+2017-02-28 23:04:24 INFO  Element:13 - Selected value=Samurai in DropDown 'model'
+2017-02-28 23:04:24 INFO  Element:13 - Selected value=1995 in DropDown 'year'
+2017-02-28 23:04:26 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:04:26 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:04:26 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:04:26 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:04:39 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 23:04:39 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 23:04:39 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:04:39 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:04:39 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:04:39 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:04:41 INFO  Element:13 - Selected value=Volvo in DropDown 'make'
+2017-02-28 23:04:41 INFO  Element:13 - Selected value=S60 in DropDown 'model'
+2017-02-28 23:04:42 INFO  Element:13 - Selected value=2013 in DropDown 'year'
+2017-02-28 23:04:52 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:04:52 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:05:03 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:05:03 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:05:03 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 23:05:12 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 23:05:12 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:05:12 INFO  CompareCarsStep:13 - The car 'SECOND' has added to garage
+2017-02-28 23:05:12 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:05:12 INFO  Element:13 - checkbox 'Compare' has clicked
+2017-02-28 23:05:15 INFO  Element:13 - button 'Compare Now' has clicked
+2017-02-28 23:05:15 INFO  CompareCarsStep:13 - 
+====-----[  Select car for comparing (Click button 'Add Another Car' and select car) ]-----====
+2017-02-28 23:05:15 INFO  Element:13 - button 'Add Another Car' has clicked
+2017-02-28 23:05:15 INFO  Element:13 - Selected value=Am General in DropDown[AddAnotherCar-form] 'make'
+2017-02-28 23:05:15 INFO  Element:13 - Selected value=Hummer in DropDown[AddAnotherCar-form] 'model'
+2017-02-28 23:05:15 INFO  Element:13 - Selected value=1996 in DropDown[AddAnotherCar-form] 'year'
+2017-02-28 23:05:16 INFO  Element:13 - button 'Done' has clicked
+2017-02-28 23:05:16 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 23:05:16 INFO  CompareCarsStep:13 - 
+Compare FIRST car with the 2th car from the table
+2017-02-28 23:05:16 INFO  Element:13 - button 'Remove' for 2 car has appeared
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Make': actual: 1996 Am General Hummer -> expected: Am General
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Model': actual: 1996 Am General Hummer -> expected: Hummer
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Year': actual: 1996 Am General Hummer -> expected: 1996
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Engine': actual: 170-hp, 6.5-liter V-8 (diesel),
+190-hp, 5.7-liter V-8 (regular gas) -> expected: 170-hp, 6.5-liter V-8 (diesel)
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Transmission': actual: 4-speed automatic w/OD -> expected: 4-speed automatic w/OD
+2017-02-28 23:05:16 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 23:05:16 INFO  CompareCarsStep:13 - 
+Compare SECOND car with the 1th car from the table
+2017-02-28 23:05:16 INFO  Element:13 - button 'Remove' for 1 car has appeared
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Make': actual: 2013 Volvo S60 -> expected: Volvo
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Model': actual: 2013 Volvo S60 -> expected: S60
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Year': actual: 2013 Volvo S60 -> expected: 2013
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Engine': actual: 250-hp, 2.5-liter I-5 (premium) -> expected: 250-hp, 2.5-liter I-5 (premium)
+2017-02-28 23:05:16 INFO  SoftAssert:13 - verify 'Transmission': actual: 6-speed automatic w/OD and auto-manual -> expected: 6-speed automatic w/OD and auto-manual
+2017-02-28 23:05:17 INFO  CompareCarsStep:13 - 
+***************************************************
+2017-02-28 23:05:17 INFO  CompareCarsStep:13 - ***** Test case: steps.CompareCarsStep Passed! *****
+
+2017-02-28 23:06:37 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 23:06:37 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 23:06:37 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 23:06:37 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 23:06:37 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 23:06:38 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:06:38 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:06:38 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:06:43 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:06:45 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:06:45 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:06:46 INFO  Element:13 - Selected value=Desoto in DropDown 'make'
+2017-02-28 23:06:46 INFO  Element:13 - Selected value=Fireflite in DropDown 'model'
+2017-02-28 23:06:47 INFO  Element:13 - Selected value=1961 in DropDown 'year'
+2017-02-28 23:06:48 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:06:48 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:06:53 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:06:53 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:07:03 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 23:07:03 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 23:07:03 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:07:03 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:07:03 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:07:03 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:07:05 INFO  Element:13 - Selected value=Fisker in DropDown 'make'
+2017-02-28 23:07:05 INFO  Element:13 - Selected value=Karma in DropDown 'model'
+2017-02-28 23:07:05 INFO  Element:13 - Selected value=2011 in DropDown 'year'
+2017-02-28 23:07:09 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:07:09 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:07:21 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:07:21 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:07:21 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 23:07:29 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 23:07:29 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:07:29 INFO  CompareCarsStep:13 - The car 'FIRST' has added to garage
+2017-02-28 23:07:29 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:07:29 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:07:29 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:07:29 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:07:31 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:07:31 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:07:32 INFO  Element:13 - Selected value=Franklin in DropDown 'make'
+2017-02-28 23:07:32 INFO  Element:13 - Selected value=Type D in DropDown 'model'
+2017-02-28 23:07:32 INFO  Element:13 - Selected value=1905 in DropDown 'year'
+2017-02-28 23:07:34 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:07:34 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:07:36 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:07:36 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:07:46 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 23:07:46 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 23:07:46 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:07:46 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:07:47 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:07:47 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:07:47 INFO  Element:13 - Selected value=Daewoo in DropDown 'make'
+2017-02-28 23:07:48 INFO  Element:13 - Selected value=Lanos in DropDown 'model'
+2017-02-28 23:07:48 INFO  Element:13 - Selected value=2002 in DropDown 'year'
+2017-02-28 23:07:52 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:07:52 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:07:54 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:07:54 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:07:54 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 23:07:57 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 23:07:57 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:07:57 INFO  CompareCarsStep:13 - The car 'SECOND' has added to garage
+2017-02-28 23:07:57 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:07:57 INFO  Element:13 - checkbox 'Compare' has clicked
+2017-02-28 23:08:01 INFO  Element:13 - button 'Compare Now' has clicked
+2017-02-28 23:08:01 INFO  CompareCarsStep:13 - 
+====-----[  Select car for comparing (Click button 'Add Another Car' and select car) ]-----====
+2017-02-28 23:08:01 INFO  Element:13 - button 'Add Another Car' has clicked
+2017-02-28 23:08:01 INFO  Element:13 - Selected value=Fisker in DropDown[AddAnotherCar-form] 'make'
+2017-02-28 23:08:01 INFO  Element:13 - Selected value=Karma in DropDown[AddAnotherCar-form] 'model'
+2017-02-28 23:08:01 INFO  Element:13 - Selected value=2011 in DropDown[AddAnotherCar-form] 'year'
+2017-02-28 23:08:02 INFO  Element:13 - button 'Done' has clicked
+2017-02-28 23:08:02 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 23:08:02 INFO  CompareCarsStep:13 - 
+Compare FIRST car with the 2th car from the table
+2017-02-28 23:08:02 INFO  Element:13 - button 'Remove' for 2 car has appeared
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Make': actual: 2011 Fisker Karma -> expected: Fisker
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Model': actual: 2011 Fisker Karma -> expected: Karma
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Year': actual: 2011 Fisker Karma -> expected: 2011
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Engine': actual: 403-hp, (electric) -> expected: 403-hp, (electric)
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Transmission': actual: 1-speed automatic -> expected: 1-speed automatic
+2017-02-28 23:08:02 INFO  CompareCarsStep:13 - 
+====-----[  Compare the cars ]-----====
+2017-02-28 23:08:02 INFO  CompareCarsStep:13 - 
+Compare SECOND car with the 1th car from the table
+2017-02-28 23:08:02 INFO  Element:13 - button 'Remove' for 1 car has appeared
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Make': actual: 2002 Daewoo Lanos -> expected: Daewoo
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Model': actual: 2002 Daewoo Lanos -> expected: Lanos
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Year': actual: 2002 Daewoo Lanos -> expected: 2002
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Engine': actual: 105-hp, 1.6-liter I-4 (regular gas) -> expected: 105-hp, 1.6-liter I-4 (regular gas)
+2017-02-28 23:08:02 INFO  SoftAssert:13 - verify 'Transmission': actual: 4-speed automatic w/OD ,
+5-speed manual w/OD -> expected: 4-speed automatic w/OD
+2017-02-28 23:08:03 INFO  CompareCarsStep:13 - 
+***************************************************
+2017-02-28 23:08:03 INFO  CompareCarsStep:13 - ***** Test case: steps.CompareCarsStep Passed! *****
+
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:13:58 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:14:04 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:14:05 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:14:05 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:14:07 INFO  Element:13 - Selected value=Delorean in DropDown 'make'
+2017-02-28 23:14:07 INFO  Element:13 - Selected value=DMC-12 in DropDown 'model'
+2017-02-28 23:14:07 INFO  Element:13 - Selected value=1983 in DropDown 'year'
+2017-02-28 23:14:09 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:14:09 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:14:18 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:14:18 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:14:28 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 23:14:28 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 23:14:28 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:14:28 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:14:28 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:14:28 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:14:29 INFO  Element:13 - Selected value=Land Rover in DropDown 'make'
+2017-02-28 23:14:30 INFO  Element:13 - Selected value=Freelander in DropDown 'model'
+2017-02-28 23:14:30 INFO  Element:13 - Selected value=2005 in DropDown 'year'
+2017-02-28 23:14:33 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:14:33 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:14:38 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:14:38 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:14:38 INFO  Element:13 - checkBox 'Compare' has appeared
+2017-02-28 23:14:40 INFO  Element:13 - link 'View Details' for 1th modification has clicked
+2017-02-28 23:14:40 INFO  CompareCarsStep:13 - 
+====-----[  Save specifications of the car for next comparing ]-----====
+2017-02-28 23:14:40 INFO  CompareCarsStep:13 - The car 'FIRST' has added to garage
+2017-02-28 23:14:40 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:14:40 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:14:40 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:14:40 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:14:41 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:14:41 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:14:42 INFO  Element:13 - Selected value=Studebaker in DropDown 'make'
+2017-02-28 23:14:43 INFO  Element:13 - Selected value=SH in DropDown 'model'
+2017-02-28 23:14:43 INFO  Element:13 - Selected value=1919 in DropDown 'year'
+2017-02-28 23:14:45 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:14:45 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:14:45 INFO  Element:13 - link 'Model details ' has clicked
+2017-02-28 23:14:45 INFO  CompareCarsStep:13 - 
+====-----[  On the tab 'Trims' select first modification of the car ]-----====
+2017-02-28 23:15:10 INFO  Element:13 - checkBox 'Compare' hasn't appeared
+2017-02-28 23:15:10 INFO  CompareCarsStep:13 - Attemp: 2/5
+2017-02-28 23:15:10 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
+2017-02-28 23:15:10 INFO  Element:13 - item 'Buy' chevron has clicked
+2017-02-28 23:15:11 INFO  Element:13 - item 'Review a Car' from submenu 'Buy' has clicked
+2017-02-28 23:15:11 INFO  CompareCarsStep:13 - 
+====-----[  Find a random car in section 'Read or Write Reviews' ]-----====
+2017-02-28 23:15:12 INFO  Element:13 - Selected value=Toyota in DropDown 'make'
+2017-02-28 23:15:12 INFO  Element:13 - Selected value=Sequoia in DropDown 'model'
+2017-02-28 23:15:12 INFO  Element:13 - Selected value=2017 in DropDown 'year'
+2017-02-28 23:15:14 INFO  Element:13 - button 'Search' has clicked
+2017-02-28 23:15:14 INFO  CompareCarsStep:13 - 
+====-----[  On the page 'Reviews' click to link 'Model Details' ]-----====
+2017-02-28 23:16:22 INFO  CompareCarsStep:13 - 
+-------------------------------------
+2017-02-28 23:16:22 INFO  CompareCarsStep:13 - Test case: steps.CompareCarsStep
+2017-02-28 23:16:22 INFO  CompareCarsStep:13 - -------------------------------------
+2017-02-28 23:16:22 INFO  CompareCarsStep:13 - --------==[ Preconditions ]==--------
+
+2017-02-28 23:16:22 INFO  CompareCarsStep:13 - 
+====-----[  Navigate to http://www.cars.com ]-----====
+2017-02-28 23:16:23 INFO  CompareCarsStep:13 - 
+====-----[  Select and save car for the next comparing ]-----====
+2017-02-28 23:16:23 INFO  CompareCarsStep:13 - Attemp: 1/5
+2017-02-28 23:16:23 INFO  CompareCarsStep:13 - 
+====-----[  Select Buy -> Review a Car ]-----====
