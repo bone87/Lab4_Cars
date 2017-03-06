@@ -22,6 +22,8 @@ public class BrowserFactory {
                     System.setProperty("webdriver.gecko.driver", "src/test/resources/drivers/geckodriver.exe");
                 } else if (isUnix()) {
                     System.setProperty("webdriver.gecko.driver", "src/test/resources/drivers/geckodriver");
+                } else if (isMac()) {
+                    System.setProperty("webdriver.gecko.driver", "src/test/resources/drivers/geckodriver_mac");
                 }
                 driver = new FirefoxDriver();
                 break;
@@ -30,6 +32,8 @@ public class BrowserFactory {
                     System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/chromedriver.exe");
                 } else if (isUnix()) {
                     System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/chromedriver");
+                } else if (isMac()) {
+                    System.setProperty("webdriver.chrome.driver", "src/test/resources/drivers/chromedriver_mac");
                 }
                 driver = new ChromeDriver();
                 break;
@@ -52,6 +56,11 @@ public class BrowserFactory {
     public static boolean isUnix (){
         String os = System.getProperty("os.name").toLowerCase();
         return (os.indexOf( "nix") >=0 || os.indexOf( "nux") >=0);
+    }
+
+    public static boolean isMac (){
+        String os = System.getProperty("os.name").toLowerCase();
+        return (os.indexOf( "mac") >=0);
     }
 
 }
